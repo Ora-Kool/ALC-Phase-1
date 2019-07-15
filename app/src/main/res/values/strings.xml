@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_us">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="profile_name">Etinge Edward Mabian</string>
+    <string name="track_label">Track: </string>
+    <string name="country_label">Country: </string>
+    <string name="email_label">Email: </string>
+    <string name="phone_number_label">Phone number: </string>
+    <string name="slack_label">Slack username: </string>
+    <string name="slack_name">\@Etinge Mabian</string>
+</resources>
